@@ -2,6 +2,11 @@
 
 ## 2021/9/21
 
+概要
+
+- kubeletのcgroupと、Dockerのcgroupが異なるためkubeletの起動に失敗する。
+- WiringpiがRaspberry Pi4だと正しく稼動しない
+
 バージョン情報
 
     $ kubectl version
